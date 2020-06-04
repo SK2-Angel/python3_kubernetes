@@ -1,0 +1,1 @@
+192.168.3.244, kubeadm join apiserver.demo:6443 --token xc8n51.n2y80dhejgzoc0jt     --discovery-token-ca-cert-hash sha256:241d0a3bfa2c732e711cea5f094b45504fe0980877e5789e4ecb12bbd7ed4f38 
