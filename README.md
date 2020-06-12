@@ -24,6 +24,7 @@ python3  /opt/k8s-admin/main.py
 
 
 
+
  1.install_kubernetes
  2.unstall_kubernetes
  3.show_kubernetes
